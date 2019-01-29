@@ -1,2 +1,2 @@
 AI_Cheatsheet
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/MarwanAbdelatti/AI_Cheatsheet/blob/master/AI_wordcloud.png)
